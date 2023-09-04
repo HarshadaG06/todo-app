@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
-  "homepage": "HarshadaG06.github.io/todo-app",
+  "homepage": "https://HarshadaG06.github.io/todo-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
