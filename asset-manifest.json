@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.280d8db3.css",
-    "main.js": "/react-gh-pages/static/js/main.33833ec4.js",
-    "static/js/787.2843ca88.chunk.js": "/react-gh-pages/static/js/787.2843ca88.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.280d8db3.css.map": "/react-gh-pages/static/css/main.280d8db3.css.map",
-    "main.33833ec4.js.map": "/react-gh-pages/static/js/main.33833ec4.js.map",
-    "787.2843ca88.chunk.js.map": "/react-gh-pages/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/HarshadaG06.github.io/todo-app/static/css/main.280d8db3.css",
+    "main.js": "/HarshadaG06.github.io/todo-app/static/js/main.8f31c408.js",
+    "static/js/787.2843ca88.chunk.js": "/HarshadaG06.github.io/todo-app/static/js/787.2843ca88.chunk.js",
+    "index.html": "/HarshadaG06.github.io/todo-app/index.html",
+    "main.280d8db3.css.map": "/HarshadaG06.github.io/todo-app/static/css/main.280d8db3.css.map",
+    "main.8f31c408.js.map": "/HarshadaG06.github.io/todo-app/static/js/main.8f31c408.js.map",
+    "787.2843ca88.chunk.js.map": "/HarshadaG06.github.io/todo-app/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.280d8db3.css",
-    "static/js/main.33833ec4.js"
+    "static/js/main.8f31c408.js"
   ]
 }
